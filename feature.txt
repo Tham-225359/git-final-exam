@@ -1,0 +1,7 @@
+# TINH NANG MOI: QUAN LY KE HOACH HOC TAP
+
+- Tu dong sinh ke hoach hoc tap hang tuan.
+- Cho phep nguoi dung them, sua, xoa muc tieu hoc tap.
+- Theo doi tien do hoc tap va hien thi bieu do.
+- Xuat bao cao hoc tap dang PDF.
+- Dong bo du lieu len GitHub.
