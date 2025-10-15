@@ -13,3 +13,9 @@ Ká»¹ nÄƒng:
 - LÃ m viá»‡c nhÃ³m vÃ  giao tiáº¿p hiá»‡u quáº£.
 
 
+K? ho?ch h?c t?p:
+- Hoàn thành khóa h?c Git và GitHub trong tháng này.
+- N?m v?ng ki?n th?c Java và c?u trúc d? li?u.
+- Tham gia d? án nhóm d? rèn k? nang làm vi?c th?c t?.
+- Ôn t?p thu?t toán và chu?n b? cho k? thi cu?i k?.
+- T? h?c thêm v? l?p trình web (HTML, CSS, JavaScript).
