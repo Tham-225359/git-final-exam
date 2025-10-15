@@ -1,10 +1,10 @@
 # Git Final Exam
 
-**H? t�n:** Nguy?n Ng?c Th?m
+**Họ tên:** Nguyễn Ngọc Thắm
 **MSSV:** 225359  
-**Ng�y l�m b�i:** 15/10/2025  
+**Ngày làm bài:** 15/10/2025  
 
-## ?? M?c ti�u
-- N?m v?ng quy tr�nh s? d?ng Git co b?n.  
-- Hi?u c�ch commit, push v� qu?n l� phi�n b?n tr�n GitHub.  
-- �p d?ng Git v�o d? �n c� nh�n ho?c nh�m m?t c�ch hi?u qu?.
+## Mục tiêu
+- Nắm vững quy trình sử dụng git cơ bản.  
+- Hiểu cách commit, push và quản lý phiên bản trên GitHub.  
+- Áp dụng Git vào dự án cá nhân hoặc nhóm một cách hiệu quả.
