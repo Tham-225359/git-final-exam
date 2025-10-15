@@ -1,14 +1,15 @@
-Gi?i thi?u c� nh�n:
-T�i l� Nguy?n Ng?c Th?m, sinh vi�n Tru?ng �?i h?c Nam C?n Tho.
-Hi?n t�i dang h?c ng�nh C�ng ngh? Th�ng tin.
-T�i y�u th�ch l?p tr�nh v� th�ch h?c h?i nh?ng c�ng ngh? m?i.
+Giới thiệu cá nhân:
+Tôi là Nguyễn Ngọc Thắm, sinh viên Trường Đại học Nam Cần Thơ.
+Hiện tôi đang học ngành Công nghệ Thông tin.
+Tôi yêu thích lập trình và thích học hỏi những công nghệ mới.
+Tôi mong muốn trở thành một kỹ sư phần mềm giỏi trong tương lai.
 
-S? th�ch:
-- �?c s�ch.
-- L?p tr�nh v� kh�m ph� c�ng ngh?.
-- Du l?ch v� ch?p ?nh.
+Sở thích:
+- Đọc sách.
+- Du lịch và chụp ảnh.
 
-K? nang:
-- L?p tr�nh Python v� Java.
-- L�m vi?c nh�m v� giao ti?p hi?u qu?.
+Kỹ năng:
+- Lập trình Python và Java.
+- Làm việc nhóm và giao tiếp hiệu quả.
+
 
