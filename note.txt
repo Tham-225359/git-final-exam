@@ -3,3 +3,4 @@
 - Ho tro lam viec nhom tot hon.
 - Hoc Git giup lam viec chuyen nghiep hon.
 - Day la mot cong cu khong the thieu doi voi developer.
+- Reset giup quay lai trang thai cu.
