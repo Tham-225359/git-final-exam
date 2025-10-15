@@ -1,3 +1,5 @@
 - Git giup quan ly phien ban code hieu qua.
 - De theo doi lich su thay doi cua du an.
 - Ho tro lam viec nhom tot hon.
+- Hoc Git giup lam viec chuyen nghiep hon.
+- Day la mot cong cu khong the thieu doi voi developer.
