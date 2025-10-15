@@ -1,21 +1,25 @@
 Giới thiệu cá nhân:
-Tôi là Nguyễn Ngọc Thắm, sinh viên Trường Đại học Nam Cần Thơ.
+Tôi là Nguyễn Ngọc Thắm, sinh viên Trường Đại học XYZ.
 Hiện tôi đang học ngành Công nghệ Thông tin.
 Tôi yêu thích lập trình và thích học hỏi những công nghệ mới.
 Tôi mong muốn trở thành một kỹ sư phần mềm giỏi trong tương lai.
 
 Sở thích:
 - Đọc sách.
+- Lập trình và khám phá công nghệ.
 - Du lịch và chụp ảnh.
 
 Kỹ năng:
 - Lập trình Python và Java.
+- Sử dụng Git và GitHub.
 - Làm việc nhóm và giao tiếp hiệu quả.
 
 
-K? ho?ch h?c t?p:
-- Ho�n th�nh kh�a h?c Git v� GitHub trong th�ng n�y.
-- N?m v?ng ki?n th?c Java v� c?u tr�c d? li?u.
-- Tham gia d? �n nh�m d? r�n k? nang l�m vi?c th?c t?.
-- �n t?p thu?t to�n v� chu?n b? cho k? thi cu?i k?.
-- T? h?c th�m v? l?p tr�nh web (HTML, CSS, JavaScript).
+
+Kế hoạch học tập:
+- Hoàn thành khóa học Git và GitHub trong tháng này.
+- Nắm vững kiến thức Java và cấu trúc dữ liệu.
+- Tham gia dự án nhóm để rèn kỹ năng làm việc thực tế.
+- Ôn tập thuật toán và chuẩn bị cho kỳ thi cuối kỳ.
+- Tự học thêm về lập trình web (HTML, CSS, JavaScript).
+
