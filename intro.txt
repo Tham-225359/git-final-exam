@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hello, this is <nguyen ngoc tham>
+=======
+Xin chao, toi la <Nguyen Ngoc Tham>
+>>>>>>> feature-update
+Conflict resolved on 15/10/2025
 
 Giới thiệu cá nhân:
 Tôi là Nguyễn Ngọc Thắm, sinh viên Trường Đại học Nam Cần Thơ.
